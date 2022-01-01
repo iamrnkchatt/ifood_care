@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "308043600816",
+    "project_id": "donation-app-76372",
+    "storage_bucket": "donation-app-76372.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308043600816:android:24cc473a19f6bd365ffc75",
+        "android_client_info": {
+          "package_name": "com.ifoodrescue.ifoodrescueapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "308043600816-mn4nc204gnbjlmn915s5rv72jdgheorf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ifoodrescue.ifoodrescueapp",
+            "certificate_hash": "18db74b611dcce588a0893327c518a798399da8a"
+          }
+        },
+        {
+          "client_id": "308043600816-1sdem5put6du0l15jlave5nl1o5qv9jj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfJ5hXiMYAX9wi3nYqDkBKVS8a4BqISTM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "308043600816-1sdem5put6du0l15jlave5nl1o5qv9jj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

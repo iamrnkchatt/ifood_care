@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>308043600816-fosfi55ui26h1roqoqmr161u997o894j.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.308043600816-fosfi55ui26h1roqoqmr161u997o894j</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>308043600816-mn4nc204gnbjlmn915s5rv72jdgheorf.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCMU7PR-fJ--9Pkr3OaliDoQvWmROsRFrk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>308043600816</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ifoodrescue.ifoodrescueapp</string>
+	<key>PROJECT_ID</key>
+	<string>donation-app-76372</string>
+	<key>STORAGE_BUCKET</key>
+	<string>donation-app-76372.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:308043600816:ios:c3aa09ad423552a35ffc75</string>
+</dict>
+</plist>
